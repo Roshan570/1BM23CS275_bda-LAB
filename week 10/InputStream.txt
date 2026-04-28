@@ -1,0 +1,3 @@
+bmscecse@bmscecse-HP-Elite-Tower-800-G9-Desktop-PC:~$ nc -lk 9999
+HI this is a Test MESSAGE ???
+It removes stop words like is, a , an   
